@@ -105,3 +105,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+/00 - First stab model/.idea/
+/00 - First stab model/data/First_stab_data_values.csv
